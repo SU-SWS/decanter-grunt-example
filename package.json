@@ -1,9 +1,9 @@
 {
-  "name": "decanter-grunt-build",
+  "name": "decanter-grunt-example",
   "description": "Example of how to compile decanter with grunt.",
   "author": "Stanford Web Services",
   "version": "0.0.1",
-  "homepage": "https://github.com/SU-SWS/decanter",
+  "homepage": "https://github.com/SU-SWS/decanter-grunt-example",
   "license": "MIT",
   "keywords": [
     "css",
